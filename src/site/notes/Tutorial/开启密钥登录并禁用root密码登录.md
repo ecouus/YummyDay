@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tutorial/开启密钥登录并禁用root密码登录/"}
+{"dg-publish":true,"permalink":"/tutorial/root/"}
 ---
 
 ## 生成新的密钥对
