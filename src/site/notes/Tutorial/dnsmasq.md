@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tutorial/dnsmasq/"}
+{"dg-publish":true,"permalink":"/Tutorial/dnsmasq/","created":"2024-10-15T12:37:20.000+08:00","updated":"2024-10-27T18:22:10.624+08:00"}
 ---
 
 ## 极速版
